@@ -1,0 +1,11 @@
+#plano img{
+    width:1200px;
+}
+#plano{
+    position: relative;
+}
+#dionisos{
+    position: absolute;
+    top:590px;
+    left:400px;
+}
